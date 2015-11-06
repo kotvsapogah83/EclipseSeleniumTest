@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9245" started-at="2015-11-06T14:18:28Z" finished-at="2015-11-06T14:18:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9245" started-at="2015-11-06T14:18:28Z" finished-at="2015-11-06T14:18:37Z">
+      <class name="otpp.DeleteFilm">
+        <test-method status="PASS" signature="init()[pri:0, instance:otpp.DeleteFilm@cbfb61]" name="init" is-config="true" duration-ms="7842" started-at="2015-11-06T17:18:28Z" finished-at="2015-11-06T17:18:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testUntitled2()[pri:0, instance:otpp.DeleteFilm@cbfb61]" name="testUntitled2" duration-ms="756" started-at="2015-11-06T17:18:36Z" finished-at="2015-11-06T17:18:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUntitled2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:otpp.DeleteFilm@cbfb61]" name="tearDown" is-config="true" duration-ms="634" started-at="2015-11-06T17:18:37Z" finished-at="2015-11-06T17:18:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- otpp.DeleteFilm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
