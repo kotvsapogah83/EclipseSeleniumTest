@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Default suite]">
-  <parameter name="path" value="/"/>
   <test name="Default test(failed)">
     <classes>
-      <class name="otpp.AddNewWrongFilledFilm">
+      <class name="otpp.NoSuchFilmFound">
         <methods>
           <include name="tearDown"/>
+          <include name="testUntitled2"/>
           <include name="init"/>
         </methods>
-      </class> <!-- otpp.AddNewWrongFilledFilm -->
-      <class name="otpp.AddNewFilmTest">
-        <methods>
-          <include name="testUntitled2"/>
-        </methods>
-      </class> <!-- otpp.AddNewFilmTest -->
+      </class> <!-- otpp.NoSuchFilmFound -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

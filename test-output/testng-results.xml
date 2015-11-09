@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="9620" started-at="2015-11-09T09:45:48Z" finished-at="2015-11-09T09:45:58Z">
+  <suite name="Default suite" duration-ms="9247" started-at="2015-11-09T10:39:01Z" finished-at="2015-11-09T10:39:10Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="9620" started-at="2015-11-09T09:45:48Z" finished-at="2015-11-09T09:45:58Z">
-      <class name="otpp.DeleteFilm">
-        <test-method status="PASS" signature="init()[pri:0, instance:otpp.DeleteFilm@cbfb61]" name="init" is-config="true" duration-ms="7718" started-at="2015-11-09T12:45:48Z" finished-at="2015-11-09T12:45:56Z">
+    <test name="Default test" duration-ms="9247" started-at="2015-11-09T10:39:01Z" finished-at="2015-11-09T10:39:10Z">
+      <class name="otpp.NoSuchFilmFound">
+        <test-method status="PASS" signature="init()[pri:0, instance:otpp.NoSuchFilmFound@cbfb61]" name="init" is-config="true" duration-ms="8340" started-at="2015-11-09T13:39:01Z" finished-at="2015-11-09T13:39:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="testUntitled2()[pri:0, instance:otpp.DeleteFilm@cbfb61]" name="testUntitled2" duration-ms="1208" started-at="2015-11-09T12:45:56Z" finished-at="2015-11-09T12:45:57Z">
+        <test-method status="PASS" signature="testUntitled2()[pri:0, instance:otpp.NoSuchFilmFound@cbfb61]" name="testUntitled2" duration-ms="301" started-at="2015-11-09T13:39:09Z" finished-at="2015-11-09T13:39:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testUntitled2 -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:otpp.DeleteFilm@cbfb61]" name="tearDown" is-config="true" duration-ms="679" started-at="2015-11-09T12:45:57Z" finished-at="2015-11-09T12:45:58Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:otpp.NoSuchFilmFound@cbfb61]" name="tearDown" is-config="true" duration-ms="594" started-at="2015-11-09T13:39:10Z" finished-at="2015-11-09T13:39:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- otpp.DeleteFilm -->
+      </class> <!-- otpp.NoSuchFilmFound -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
